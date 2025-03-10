@@ -121,7 +121,7 @@ O request body tem que estar em formato JSON e ter as seguintes propriedades:
  ```
  {
     "clientName": "Gil do Vigor",
-    "clientEmail": "gil@dovigor.com"
+    "clientEmail": "gil@dovigor.com.br"
 }
  ```
 
